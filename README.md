@@ -2,10 +2,6 @@
 <!-- saved from url=(0023)https://awesomecpp.com/ -->
 <html lang="zh-CN" class="translated-ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="author" content="Erik Rigtorp">
-  <link rel="index" title="埃里克·里格托普" href="https://awesomecpp.com/">
   <title>很棒的现代 C++</title>
   <style type="text/css">
     :root {
