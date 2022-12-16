@@ -2,37 +2,6 @@
 <!-- saved from url=(0023)https://awesomecpp.com/ -->
 <html lang="zh-CN" class="translated-ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   
-  <title>很棒的现代 C++</title>
-  <style type="text/css">
-    :root {
-      --background-color: #fff;
-      --text-color: #1f1f1f;
-      --link-color: #0b57d0;
-      --link-color-hover: #041e49;
-    }
-    @media (prefers-color-scheme: dark) { 
-      :root {
-        --background-color: #1f1f1f;
-        --text-color: #e3e3e3;
-        --link-color: #a8c7fa;
-        --link-color-hover: #d3e3fd;
-      }
-    }
-    body {
-      margin: 2em auto;
-      max-width: 70ch;
-      line-height: 1.5;
-      background: var(--background-color);
-      color: var(--text-color);
-      padding:0 1em;
-      font-family: "Georgia", "Times New Roman", Times, serif;
-      font-size: 1em;
-    }
-    h1,h2,h3 { line-height: 1.2; }
-    a { color: var(--link-color); }
-    a:hover { color: var(--link-color-hover); }
-  </style>
-<link type="text/css" rel="stylesheet" charset="UTF-8" href="./很棒的现代 C++_files/translateelement.css"></head>
 <body>
   <h1 id="awesome-modern-c"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">很棒的现代 C++</font></font></h1>
 
